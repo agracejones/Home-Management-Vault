@@ -10,6 +10,3 @@ Find plugins or methods for:
 - Calendar
 - Budgeting/spreadsheets 
 - Habit tracking/to-do lists
-
-
-

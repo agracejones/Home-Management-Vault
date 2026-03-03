@@ -1,10 +1,13 @@
-Sunday
-	Laundry
-	Tidy up the house (10 minutes-ish)
-Monday
-	Tidy up the bathroom
-Tuesday
-Wednesday
-Thursday
-Friday
-Saturday
+## Chores that need to get done:
+- Get the mail (daily)
+- Sweep (2-3 times per week)
+- Mop (once a week)
+- Wash dishes (daily)
+- Personal laundry (1-2 times a week)
+- Towels laundry (once every two weeks)
+- Sheets laundry (once every two weeks)
+- Vacuum (once a week)
+- Dust (once every two weeks)
+- Wash windows (once every two weeks)
+- Clean out car (once a week)
+- Clean 

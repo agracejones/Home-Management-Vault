@@ -46,7 +46,7 @@
 	- Check the mail
 	- Wash dishes
 	- 15 minute house tidy
-- Tuesday
+- Tuesday - floors day
 	- Check the mail
 	- Wash dishes
 	- 15 minute house tidy
@@ -54,7 +54,7 @@
 	- Personal laundry
 	- Mop
 	- Vacuum
-- Wednesday
+- Wednesday - bathroom day
 	- Check the mail
 	- Wash dishes
 	- 15 minute house tidy

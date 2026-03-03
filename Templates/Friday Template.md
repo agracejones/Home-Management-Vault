@@ -7,7 +7,8 @@
 	- [ ] Wash
 	- [ ] Dry
 	- [ ] Put away
-- [ ] 
+- [ ] Clean out car
+- [ ] Dust or wash windows
 
 ## Today's challenges (pick at least one from each category)
 ### Spiritual

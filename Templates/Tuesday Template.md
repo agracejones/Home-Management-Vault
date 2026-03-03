@@ -2,6 +2,13 @@
 - [ ] Check the mail
 - [ ] Wash a load of dishes
 - [ ] 15-minute house tidy
+- [ ] Sweep
+- [ ] Personal laundry
+	- [ ] Wash
+	- [ ] Dry
+	- [ ] Put away
+- [ ] Mop
+- [ ] Vacuum
 
 ## Today's challenges (pick at least one from each category)
 ### Spiritual
@@ -10,16 +17,18 @@
 - [ ] Work on memorization
 - [ ] Prayer session
 - [ ] Listen to audio Bible or sermon
-### Creative
+### Creative/attention span
 - [ ] Physically journal
 - [ ] Watercolor
 - [ ] Practice music
 - [ ] Write
-- [ ] 
+- [ ] Read/listen to audiobook
 ### Movement
 - [ ] Grip trainer/stretch bands
 - [ ] Stretch
 - [ ] Walk
+- [ ] Short cardio
+- [ ] Short bodyweight 
 
 ## Morning check-in
 ### What are my goals today?

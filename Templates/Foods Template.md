@@ -1,6 +1,6 @@
 ## Nutrition Details
-Serving size: 1/2 cup dry
-Calories: 
+Serving size:
+Calories:
 Fat:
 Protein:
 Fiber:

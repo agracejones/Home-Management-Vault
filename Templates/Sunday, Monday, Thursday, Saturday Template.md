@@ -42,3 +42,12 @@
 
 ### What is one thing I'm grateful for today?
 
+
+## Nutrition
+
+| Meal      | Food | Nutrition score | Notes |
+| --------- | ---- | --------------- | ----- |
+| Breakfast |      |                 |       |
+| Lunch     |      |                 |       |
+| Dinner    |      |                 |       |
+| Snacks    |      |                 |       |

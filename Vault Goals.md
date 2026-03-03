@@ -6,3 +6,7 @@
 	- Tracking habits and goals
 	- Journaling and notes for future reference
 	- Health tracking and analysis
+Find plugins or methods for:
+- Calendar
+- Budgeting/spreadsheets 
+- Habit tracking/to-do lists

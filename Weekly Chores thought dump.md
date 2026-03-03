@@ -1,0 +1,37 @@
+## Chores that need to get done:
+- Get the mail (daily)
+- Sweep (twice per week)
+- Mop (once a week)
+- Wash dishes (daily)
+- Personal laundry (twice a week)
+- Towels laundry (once every two weeks)
+- Sheets laundry (once every two weeks)
+- Vacuum (once a week)
+- Dust (once every two weeks)
+- Wash windows (once every two weeks)
+- Clean out car (once a week)
+- Clean toilet (once a week, plus spot clean when necessary)
+- Clean bathroom surfaces (once a week)
+- Scrub shower (once a week)
+- General tidying up (daily)
+
+## Organized into frequency:
+- Daily
+	- Check the mail
+	- Wash dishes
+	- 15 minute house tidy
+- Twice a week
+	- Sweep
+	- Personal laundry
+- Once a week
+	- Mop
+	- Vacuum
+	- Clean out car
+	- Clean toilet
+	- Wipe down bathroom surfaces
+	- Scrub shower
+- Every other week
+	- Towels laundry
+	- Sheets laundry
+	- Dust
+	- Wash windows

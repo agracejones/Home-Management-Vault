@@ -1,23 +1,24 @@
 ## Nutrition Details
 Serving size: 1/2 cup dry
-Calories: 
-Fat:
-Protein:
-Fiber:
-Added sugars:
+Calories: 150
+Fat: 2.5g
+Protein: 5g
+Fiber: 4g
+Added sugars: 0g
 
 ## Ingredients
-
+Oats
+Water or milk
 
 ## Variations
-
+Can add fruit, cinnamon, vanilla, chocolate chips, peanut butter, etc.
 
 ## Recipe
 
 
 ## Notes
-Tags: 
-Nutrition score:
+Tags: #breakfast #quick
+Nutrition score: 5
 
 > Nutrition score is based on how well a given food contributes to my health goals.
 > 1 - The food is highly processed and/or has high sugars and/or fats with little protein or fiber.

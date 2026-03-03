@@ -35,3 +35,46 @@
 	- Sheets laundry
 	- Dust
 	- Wash windows
+
+
+## Organized into specific days:
+- Sunday
+	- Check the mail
+	- Wash dishes
+	- 15 minute house tidy
+- Monday
+	- Check the mail
+	- Wash dishes
+	- 15 minute house tidy
+- Tuesday
+	- Check the mail
+	- Wash dishes
+	- 15 minute house tidy
+	- Sweep
+	- Personal laundry
+	- Mop
+	- Vacuum
+- Wednesday
+	- Check the mail
+	- Wash dishes
+	- 15 minute house tidy
+	- Clean toilet
+	- Wipe down bathroom surfaces
+	- Scrub shower
+	- Towels laundry OR sheets laundry (switch every week)
+- Thursday
+	- Check the mail
+	- Wash dishes
+	- 15 minute house tidy
+- Friday
+	- Check the mail
+	- Wash dishes
+	- 15 minute house tidy
+	- Sweep
+	- Personal laundry
+	- Clean out car
+	- Dust OR wash windows (switch every week)
+- Saturday
+	- Check the mail
+	- Wash dishes
+	- 15 minute house tidy

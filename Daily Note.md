@@ -1,1 +1,5 @@
-## <span style="color:rgb(65, 180, 105)">What am<span style="color:rgb(65, 180, 105)"> I up to to<span style="color:rgb(65, 180, 105)">day?</span> </span> </span> 
+## What am I up to today?
+>[!note] Testing
+>Making a text block
+
+ 

@@ -12,4 +12,3 @@ Find plugins or methods for:
 - Habit tracking/to-do lists
 
 Daily note
-
